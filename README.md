@@ -1,4 +1,4 @@
 # Financial-Portfolio-Management-System-FPMS-
-This Repo is Private, Please soot me a message if you want to collabrate or see the code based & how it works.
+This Repo is Private, Please send me a message 'kidus@kidusberhanu.com' if you want to collabrate or see the code base & how it works.
 
 
