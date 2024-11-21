@@ -1,5 +1,6 @@
 # Financial-Portfolio-Management-System-FPMS-
-Project Demo  https://kjay.pythonanywhere.com/
-This Repo is Private, Please send me a message 'kidus@kidusberhanu.com' if you want to collabrate or see the code base & how it works.
+Project Demo:  https://kjay.pythonanywhere.com/
+Documentation: Coming Soon!
 
+This repository is private. If you're interested in collaborating or gaining access to the codebase and its functionality, please feel free to contact me at kidus@kidusberhanu.com.
 
